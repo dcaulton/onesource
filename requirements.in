@@ -1,0 +1,12 @@
+django
+djangorestframework
+daphne
+numpy
+pandas
+seaborn
+openai
+scikit-learn
+sentence-transformers
+ipdb
+redis
+pip-chill
